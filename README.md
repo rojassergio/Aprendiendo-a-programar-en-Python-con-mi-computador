@@ -1,4 +1,4 @@
-<center><h1> Aprendiendo a programar en Python con mi computador: <span>Primeros pasos rumbo a cómputos de gran escala en las Ciencias e Ingenierías</span></center>
+<center><h1> Aprendiendo a programar en Python con mi computador: <br> <span>Primeros pasos rumbo a cómputos de gran escala en las Ciencias e Ingenierías</span></center>
 
 Este es un Libro para iniciarse en el uso del computador 
 más allá del juego y del uso de procesadores de texto.
@@ -9,12 +9,6 @@ bachillerato en adelante y de **distribución bajo la licencia**
 importante para avanzar el proceso enseñanza-aprendizaje en nuestras
 instituciones educativas y del autodidacta.
 
-Section Title
-=============
-The Common Denominator
-======================
 
-Subsection Subtitle
--------------------
-Titles and Section headers
 
+<div class="text">This is the Title<br /><span>The SubTitle would go here</span></div>
