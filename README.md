@@ -1,6 +1,4 @@
-<h2> Aprendiendo a programar en Python con mi computador <br> <sub> Primeros pasos rumbo a cómputos de gran escala en las Ciencias e Ingenierías</sub></h2>
-
-<h2> Aprendiendo a programar en Python con mi computador <br> <small> Primeros pasos rumbo a cómputos de gran escala en las Ciencias e Ingenierías</small></h2>
+<p style="text-align: center;"><h2> Aprendiendo a programar en Python con mi computador <br> <sub> Primeros pasos rumbo a cómputos de gran escala en las Ciencias e Ingenierías</sub></h2></p>
 
 Este es un Libro para iniciarse en el uso del computador 
 más allá del juego y del uso de procesadores de texto.
