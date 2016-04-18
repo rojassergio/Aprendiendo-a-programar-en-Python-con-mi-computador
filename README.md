@@ -31,11 +31,13 @@ desde un terminal o consola de comando Linux ejecutando el comando
 * `python nombre_del_programa`
 <br>
 <br>
+
 Por ejemplo, en el directorio del cap&iacute;tulo uno est&aacute; el
 programa **Cap01_01_verifica_python.py**, que se ejecuta desde un 
 terminal Linux en la forma:
 <br>
 <br>
+
 * `python Cap01_01_verifica_python.py`
 <br>
 <br>
