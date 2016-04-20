@@ -1,0 +1,6 @@
+
+Al parecer hay un error en la línea 
+Out [23]:
+
+El resultado debe coincidir con 
+Out [24]:
