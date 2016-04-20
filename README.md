@@ -33,6 +33,7 @@ Por ejemplo, en el directorio del cap&iacute;tulo uno est&aacute; el
 programa **Cap01_01_verifica_python.py**, que se ejecuta desde un 
 terminal Linux en la forma:
 <br>
+* `cd Programas_Capitulo_01`
 * `python Cap01_01_verifica_python.py`
 
 <br>
