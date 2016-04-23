@@ -56,3 +56,7 @@ terminal Linux en la forma:
                 la direcci&oacute;n e-mail respectiva</b>
 </font>
 </center>
+<p style="text-align: center;">
+<font color=red><b> Agradecemos reportar errores u omisiones en 
+                la direcci&oacute;n e-mail respectiva</b>
+</p>
