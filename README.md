@@ -49,11 +49,10 @@ terminal Linux en la forma:
 <br>
 * `cd Programas_Capitulo_01`
 * `python Cap01_01_verifica_python.py`
-
-<br>
 <br>
 
-</center>
+<center>
 <font color=red><b> Agradecemos reportar errores u omisiones en 
                 la direcci&oacute;n e-mail respectiva</b>
+</font>
 </center>
