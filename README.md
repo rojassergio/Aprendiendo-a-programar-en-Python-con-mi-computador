@@ -24,15 +24,15 @@ instituciones educativas como del autodidacta.
 </table>
 <BR CLEAR=ALL>
 En cada directorio **Programas_Capitulo_xx** se encuentran los programas del
-cap&iacute;tulo *xx*, incluyendo las sesiones <em>IPython</em> ligeramente
+**cap&iacute;tulo *xx* **, incluyendo las sesiones <em>IPython</em> ligeramente
 modificadas (pas&aacute;ndole como argumento a la funci&oacute;n <em>print</em>
 lo que debe mostrarse en pantalla, lo cual **no** es necesario 
 si se ejecuta el comando desde la consola <em>IPython</em>).
 
 **Aunque estos programas se pueden ejecutar directamente desde un terminal
-Linux (como indicamos en los siguientes p&aacute;rrafos), es nuestra
-recomendaci&oacute;n, para quien est&aacute;aprendiendo a programar,
- que las sesiones <em>IPython</em> se ejecuten
+Linux** (como indicamos en los siguientes p&aacute;rrafos), **es nuestra
+recomendaci&oacute;n**, para quien est&aacute; aprendiendo a programar,
+ **que las sesiones <em>IPython</em> se ejecuten
 en la forma indicada en el cap&iacute;tulo correspondiente del libro**
 
 Los programas que acompa&ntilde;an este libro se ejecutan directamente
@@ -51,4 +51,7 @@ terminal Linux en la forma:
 <br>
 <br>
 
-
+</center>
+<font color=red><b> Agradecemos reportar errores u omisiones en 
+                la direcci&oacute;n e-mail respectiva</b>
+</center>
