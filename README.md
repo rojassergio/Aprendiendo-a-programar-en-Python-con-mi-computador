@@ -24,10 +24,12 @@ instituciones educativas como del autodidacta.
 </table>
 <BR CLEAR=ALL>
 En cada directorio **Programas_Capitulo_xx** se encuentran los programas del
-**cap&iacute;tulo *xx* **, incluyendo las sesiones <em>IPython</em> ligeramente
+**cap&iacute;tulo xx**, incluyendo las sesiones <em>IPython</em> 
+ligeramente
 modificadas (pas&aacute;ndole como argumento a la funci&oacute;n <em>print</em>
 lo que debe mostrarse en pantalla, lo cual **no** es necesario 
-si se ejecuta el comando desde la consola <em>IPython</em>).
+si se ejecuta el comando desde la consola <em>IPython</em>, pero tambi&eacute;n
+son instruciones v&aacute;lidas).
 
 **Aunque estos programas se pueden ejecutar directamente desde un terminal
 Linux** (como indicamos en los siguientes p&aacute;rrafos), **es nuestra
