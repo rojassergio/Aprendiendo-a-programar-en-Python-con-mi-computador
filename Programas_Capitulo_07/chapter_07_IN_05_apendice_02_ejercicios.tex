@@ -1,0 +1,140 @@
+
+\newpage
+\begin{appendices}
+%-----
+
+\renewcommand\thechapter{}
+\chapter[Ejercicios del Cap\'{\i}tulo~\ref{CHAP07}]{Ejercicios del 
+                        Cap\'{\i}tulo~\ref{CHAP07}}
+\label{ejercicios:chap07}
+\stepcounter{mychapter} % INCREASE COUNTER BY 1
+
+\begin{prob}
+\label{chap07:prob1}
+Ejecutar los comandos de las celdas \mytext{In [6]:-In [10]:}
+de la sesión {\ipython} en la 
+página~\pageref{code:chap07:matplotlib:ex:01}  
+en secuencias diferentes a la presentada en esa sesión {\ipython}.
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob2}
+Realizar los ejercicios propuestos durante la discusión
+de los ejemplos de las secciones~\ref{chap:07:matplotlib:ex1}
+(en la página~\pageref{chap:07:matplotlib:ex1}), \ref{chap:07:matplotlib:ex2} 
+(en la página~\pageref{chap:07:matplotlib:ex2}) y \ref{chap:07:matplotlib:ex3}
+(en la página~\pageref{chap:07:matplotlib:ex3}).
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob3}
+Ejecutar los comandos de las celdas \mytext{In [6]:-In [11]:}
+de la sesión {\ipython} en la 
+página~\pageref{code:chap07:matplotlib:ex:02}  
+en secuencias diferentes a la presentada en esa sesión {\ipython}.
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob5}
+Modificando el programa de la 
+página~\pageref{code:chap06:archivooutput:ex:01}
+e incluyendo instrucciones
+para graficar, 
+reproducir una de las gráficas que se presentan en la 
+figura~\ref{fig:chap06:flores:01}, en la
+página~\pageref{fig:chap06:flores:01}.
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob6}
+Con apoyo en la figura figura~\ref{fig:chap07:ArregloSubCuadros},
+en la página~\pageref{fig:chap07:ArregloSubCuadros}, hacer modificaciones
+al programa de la página~\pageref{code:chap07:matplotlib:ex:03} 
+para obtener cuatro subcuadros.
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob7}
+En el programa que se muestra en la 
+página~\pageref{code:chap07:matplotlib:ex:03},
+desactivar (añadiendo el caracter \url{#} 
+al inicio
+de la línea) o eliminar la instrucción \mytext{\url{fig.tight_layout()}} 
+(en la línea de código \mytextb{22}) y ejecutar el programa para 
+observar su efecto. Buscando recuperar parcialmente uno de los ajustes
+que esa opción produce, ¿qué valor se le asignaría a la variable
+\mytext{loc} (ver opciones en la tabla~\ref{chap:07:tabla:formatoleyenda},
+en la página~\pageref{chap:07:tabla:formatoleyenda})
+ en la línea de código \mytextb{13}?.
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob8}
+Con apoyo en los ejercicios~\ref{chap07:prob5}~y~\ref{chap07:prob6},
+reproducir la figura
+\ref{fig:chap06:flores:01}, en la
+página~\pageref{fig:chap06:flores:01}.
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob9}
+Para corroborar que en las líneas de código \mytextb{26-28} del
+programa de la página~\pageref{code:chap07:matplotlib3D:prog:01}
+se asignan objetos de tipo \mytext{numpy.ndarray} y dimensiones
+\mytext{16} filas por \mytext{16} columnas, después
+de la línea de código \mytextb{24} inserte las instrucciones:
+\begin{mymdframed}
+\lstset{numberfirstline=true, firstnumber=26, numbers=left, 
+        numberstyle=\scriptsize, stepnumber=1, numbersep=3pt}
+\begin{lstlisting}[basicstyle=\ttfamily\scriptsize,frame=single] 
+
+print('El objeto asignado a la variable X es de tipo: {0}'.format(type(X)))
+print('El objeto asignado a la variable X tiene dimensiones: {0}'.
+                                                    format(np.shape(X)))
+\end{lstlisting}
+\end{mymdframed}
+
+\begin{mymdframed}
+\lstset{numberfirstline=true, firstnumber=32, numbers=left, 
+        numberstyle=\scriptsize, stepnumber=1, numbersep=3pt}
+\begin{lstlisting}[basicstyle=\ttfamily\scriptsize,frame=single] 
+print('El objeto asignado a la variable x es de tipo: {0}'.
+                                                    format(type(x)))
+print('El objeto asignado a la variable x tiene dimensiones: {0}'.
+                                                    format(np.shape(x)))
+
+\end{lstlisting}
+La función {\numpy} \mytext{shape} se describe en
+(\url{http://docs.scipy.org/doc/numpy-1.10.1/reference/generated/numpy.ndarray.shape.html}).
+\end{mymdframed}
+%
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob10}
+En la sesión {\ipython} de la página~\pageref{code:chap07:matplotlib3D:02:in},
+ejecutar las instrucciones \mytext{X.flatten()}, 
+\mytext{Y.flatten()} y \mytext{Z.flatten()} para precisar lo que generan
+(aunque el resultado debe ser evidente de la línea de código
+\mytextb{14} del programa en 
+la página~\pageref{code:chap07:matplotlib3D:prog:02}). 
+\end{prob}
+%
+\begin{prob}
+\label{chap07:prob11}
+Después de
+agregar el símbolo numeral (\mytext{\#}) al inicio
+de la línea de código \mytextb{15} del programa en la
+página~\pageref{code:chap07:matplotlib3D:prog:02} para convertirla
+en un comentario, ejecutar 
+el programa y observar el efecto que ello causa en la gráfica 
+que se genera comparándola con la figura de la 
+página~\ref{fig:chap07:matplotlib:3D:ex:02}.
+\end{prob}
+%
+%\begin{prob}
+%\label{chap07:prob7}
+%\end{prob}
+
+\end{appendices}
+
