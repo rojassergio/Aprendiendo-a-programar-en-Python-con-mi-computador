@@ -1,3 +1,13 @@
+'''
+@author: Sergio Rojas
+@contact: rr.sergio@gmail.com
+--------------------------
+Contenido bajo
+ Atribución-NoComercial-CompartirIgual 3.0 Venezuela (CC BY-NC-SA 3.0 VE)
+ http://creativecommons.org/licenses/by-nc-sa/3.0/ve/
+
+Creado en abril 23, 2016
+'''
 
 import matplotlib.pyplot as plt
 import random
