@@ -4,7 +4,7 @@
   <tr>
      <td>
          <a href="https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/blob/master/AprenderPythonEnMiComputador.pdf" target="_blank">
-      <img src="./img/portada.png" alt="" height="192" width="192" align="ABSMIDDLE" border="0">
+      <img src="./img/portada.png" alt="" height="192" width="592" align="ABSMIDDLE" border="0">
 </a>
      </td>
      <td>
@@ -23,7 +23,8 @@ instituciones educativas como del autodidacta.
   </tr>
 </table>
 <BR CLEAR=ALL>
-Estamos en Twitter: <a href="https://twitter.com/pyprog/" target="_blank">@pyprog Twitter</a>
+**Nuestra Presencia en Twitter**: <a href="https://twitter.com/pyprog/" target="_blank">@pyprog Twitter</a>
+<BR CLEAR=ALL>
 <BR CLEAR=ALL>
 En cada directorio **Programas_Capitulo_xx** se encuentran los programas del
 **cap&iacute;tulo xx**, incluyendo las sesiones <em>IPython</em> 
