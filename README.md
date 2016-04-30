@@ -4,7 +4,7 @@
   <tr>
      <td>
          <a href="https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/blob/master/AprenderPythonEnMiComputador.pdf" target="_blank">
-      <img src="./img/portada.png" alt="" height="192" width="592" align="ABSMIDDLE" border="0">
+      <img src="./img/portada.png" alt="" height="192" width="992" align="ABSMIDDLE" border="0">
 </a>
      </td>
      <td>
