@@ -23,6 +23,8 @@ instituciones educativas como del autodidacta.
   </tr>
 </table>
 <BR CLEAR=ALL>
+Estamos en Twitter: <a href="https://twitter.com/pyprog/" target="_blank">@pyprog Twitter</a>
+<BR CLEAR=ALL>
 En cada directorio **Programas_Capitulo_xx** se encuentran los programas del
 **cap&iacute;tulo xx**, incluyendo las sesiones <em>IPython</em> 
 ligeramente
