@@ -54,7 +54,8 @@ terminal Linux en la forma:
 
 <p style="text-align: center;">
 <font color=red><b> Agradecemos reportar errores u omisiones en 
-                la direcci&oacute;n e-mail respectiva o v&iacute;a referido
+                la direcci&oacute;n e-mail respectiva o v&iacute;a
+Twitter, en la direcci&oacute;n referida
 a continuaci&oacute;n. </b>
 </p>
 
@@ -74,7 +75,7 @@ a continuaci&oacute;n. </b>
 
   **Divulga/Comparte**
 
-<div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=Programando en Python+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a>
+<div class="ssba ssba-wrap"><div style="text-align:right"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=Programando en Python+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a>
                         </div>
   </tr>
 </table>
