@@ -25,11 +25,22 @@ instituciones educativas como del autodidacta.
 <BR CLEAR=ALL>
 **Nuestra Presencia en Twitter**: <a href="https://twitter.com/pyprog/" target="_blank">@pyprog Twitter</a>
 <BR CLEAR=ALL>
+ <table style="width:100%">
+  <tr>
+     <td>
+  **Escr&iacute;benos un Twitter**
+<BR CLEAR=ALL>
 <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=@pyprog+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a>
                         </div>
+        </td>
+     <td>
+  **Divulga/Comparte nuestro esfuerz**
 <BR CLEAR=ALL>
 <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=Programando en Python+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a>
                         </div>
+        </td>
+  </tr>
+</table>
 <BR CLEAR=ALL>
 <BR CLEAR=ALL>
 En cada directorio **Programas_Capitulo_xx** se encuentran los programas del
