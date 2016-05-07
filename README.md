@@ -24,7 +24,6 @@ instituciones educativas como del autodidacta.
 </table>
 
 <BR CLEAR=ALL>
-<BR CLEAR=ALL>
 En cada directorio **Programas_Capitulo_xx** se encuentran los programas del
 **cap&iacute;tulo xx**, incluyendo las sesiones <em>IPython</em> 
 ligeramente
@@ -55,7 +54,8 @@ terminal Linux en la forma:
 
 <p style="text-align: center;">
 <font color=red><b> Agradecemos reportar errores u omisiones en 
-                la direcci&oacute;n e-mail respectiva</b>
+                la direcci&oacute;n e-mail respectiva o v&iacute;a referido
+a continuaci&oacute;n. </b>
 </p>
 
 <BR CLEAR=ALL>
@@ -64,13 +64,14 @@ terminal Linux en la forma:
 
  <table style="width:100%">
   <tr>
-     <td>
+
   **Escr&iacute;benos un Twitter**
 
 <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=&amp;text=@pyprog+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a>
                         </div>
+  </tr>
+  <tr>
 
-     <td>
   **Divulga/Comparte**
 
 <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=Programando en Python+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a>
