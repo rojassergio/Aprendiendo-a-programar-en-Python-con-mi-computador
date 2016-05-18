@@ -63,7 +63,7 @@ a continuaci&oacute;n. </b>
 **Nuestra Presencia en Twitter**: <a href="https://twitter.com/pyprog/" target="_blank">@pyprog Twitter</a>
 <BR CLEAR=ALL>
 
-| **Escr&iacute;benos un Twitter**  | **Divulga/Comparte nuestra direcci&oacute;n** |
+| **Escr&iacute;benos un Twitter**  | **Divulga/Comparte nuestra direcci&oacute;n web** |
 | :---: | :---: |
 | <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=&amp;text=@pyprog+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> | <div class="ssba ssba-wrap"><div style="text-align:right"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=Programando en Python+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> |
 
@@ -72,4 +72,5 @@ a continuaci&oacute;n. </b>
 
 - [Aprender programación en Khan Academy](https://es.khanacademy.org/computing/computer-programming/programming/intro-to-programming/a/learning-programming-on-khan-academy)
 
+- [Python ya: Tutorial (Python 2.5) en l&iacute;nea](http://pythonya.appspot.com/)
 
