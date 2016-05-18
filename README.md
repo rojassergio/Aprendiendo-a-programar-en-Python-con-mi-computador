@@ -63,7 +63,13 @@ a continuaci&oacute;n. </b>
 **Nuestra Presencia en Twitter**: <a href="https://twitter.com/pyprog/" target="_blank">@pyprog Twitter</a>
 <BR CLEAR=ALL>
 
-| **Escr&iacute;benos un Twitter**  | **Divulga/Comparte esta direcci&oacute;n internet** |
+| **Escr&iacute;benos un Twitter**  | **Divulga/Comparte nuestra direcci&oacute;n** |
 | :---: | :---: |
 | <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=&amp;text=@pyprog+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> | <div class="ssba ssba-wrap"><div style="text-align:right"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=Programando en Python+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> |
+
+<BR CLEAR=ALL>
+<p style="text-align: center;"><h2> Otras iniciativas para aprender a programar</h2></p>
+
+- [Aprender programación en Khan Academy](https://es.khanacademy.org/computing/computer-programming/programming/intro-to-programming/a/learning-programming-on-khan-academy)
+
 
