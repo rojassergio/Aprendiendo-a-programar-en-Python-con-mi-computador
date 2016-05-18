@@ -70,7 +70,5 @@ a continuaci&oacute;n. </b>
 <BR CLEAR=ALL>
 <p style="text-align: center;"><h2> Otras iniciativas para aprender a programar</h2></p>
 
-- [Aprender programación en Khan Academy](https://es.khanacademy.org/computing/computer-programming/programming/intro-to-programming/a/learning-programming-on-khan-academy)
-
 - [Python ya: Tutorial (Python 2.5) en l&iacute;nea](http://pythonya.appspot.com/)
 
