@@ -52,6 +52,9 @@ terminal Linux en la forma:
 * `python Cap01_01_verifica_python.py`
 <br>
 
+>> * [** _Instalando Python: un breve tutorial_ **](http://nbviewer.jupyter.org/github/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/blob/master/Instalando_python.ipynb)
+
+<br>
 <p style="text-align: center;">
 <font color=red><b> Agradecemos reportar errores u omisiones en 
                 la direcci&oacute;n e-mail respectiva o v&iacute;a
