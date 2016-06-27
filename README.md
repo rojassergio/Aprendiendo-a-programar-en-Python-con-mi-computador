@@ -52,9 +52,6 @@ terminal Linux en la forma:
 * `python Cap01_01_verifica_python.py`
 <br>
 
->> * [** _Instalando Python: un breve tutorial_ **](http://nbviewer.jupyter.org/github/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/blob/master/Instalando_python.ipynb)
-
-<br>
 <p style="text-align: center;">
 <font color=red><b> Agradecemos reportar errores u omisiones en 
                 la direcci&oacute;n e-mail respectiva o v&iacute;a
@@ -69,6 +66,12 @@ a continuaci&oacute;n. </b>
 | **Escr&iacute;benos un Twitter**  | **Divulga/Comparte nuestra direcci&oacute;n web** |
 | :---: | :---: |
 | <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=&amp;text=@pyprog+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> | <div class="ssba ssba-wrap"><div style="text-align:right"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=Programando en Python+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> |
+
+<BR CLEAR=ALL>
+<p style="text-align: center;"><h2> Addendum </h2></p>
+
+- [**_Instalando Python: un breve tutorial_**](http://nbviewer.jupyter.org/github/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/blob/master/Instalando_python.ipynb)
+
 
 <BR CLEAR=ALL>
 <p style="text-align: center;"><h2> Otras iniciativas para aprender a programar</h2></p>
