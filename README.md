@@ -3,7 +3,7 @@
  <table style="width:100%">
   <tr>
      <td>
-         <a href="https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/blob/master/AprenderPythonEnMiComputador.pdf" target="_blank">
+         <a href="https://www.researchgate.net/publication/301293668" target="_blank">
       <img src="./img/portada.png" alt="" height="192" width="992" align="ABSMIDDLE" border="0">
 </a>
      </td>
@@ -60,12 +60,8 @@ a continuaci&oacute;n. </b>
 </p>
 
 <BR CLEAR=ALL>
-**Nuestra Presencia en Twitter**: <a href="https://twitter.com/pyprog/" target="_blank">@pyprog Twitter</a>
+**Nuestra Presencia en Twitter**: <a href="https://www.researchgate.net/publication/301293668" target="_blank">Twitter</a>
 <BR CLEAR=ALL>
-
-| **Escr&iacute;benos un Twitter**  | **Divulga/Comparte nuestra direcci&oacute;n web** |
-| :---: | :---: |
-| <div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=&amp;text=@pyprog+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> | <div class="ssba ssba-wrap"><div style="text-align:right"><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://github.com/rojassergio/Aprendiendo-a-programar-en-Python-con-mi-computador/&amp;text=Programando en Python+"  target="_blank" ><img src="./img/twitter_image.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a> </div> |
 
 <BR CLEAR=ALL>
 <p style="text-align: center;"><h2> Addendum </h2></p>
